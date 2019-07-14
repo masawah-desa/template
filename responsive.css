@@ -1,0 +1,10 @@
+@media screen and (max-width: 959px) {
+#footer-widgets-container {
+display:none;
+}
+}
+@media screen and (max-width: 629px) {
+#footer-widgets-container {
+display:none;
+}
+}
